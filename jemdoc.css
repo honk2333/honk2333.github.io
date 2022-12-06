@@ -4,13 +4,21 @@ table#tlayout {
     border: none;
     border-collapse: separate;
     background: white;
+	margin:auto;
+	width: 45%;
 }
 
 body {
 	background: white;
-	font-family: Georgia, serif;
-	padding-bottom: 8px;
-	margin: 0;
+	/*font-family: Georgia, serif;*/
+	/*font-family: STZhongsong, serif;*/
+	font-family: Consolas, serif;
+
+	font-size: 16px;
+
+	/*padding-bottom: 8px;*/
+	/*margin: 0;*/
+	text-align: center;
 }
 
 #layout-menu {
@@ -22,7 +30,7 @@ body {
 	font-size: 1.0em;
 	width: auto;
 	white-space: nowrap;
-    text-align: left;
+    /*text-align: left;*/
     vertical-align: top;
 }
 
